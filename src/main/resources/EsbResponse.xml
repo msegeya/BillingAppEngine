@@ -1,0 +1,96 @@
+  
+<FCUBS_RES_ENV xmlns="http://fcubs.ofss.com/service/FCUBSRTService" >
+    <FCUBS_HEADER>
+        <SOURCE>FLEXCUBE</SOURCE>
+        <UBSCOMP>FCUBS</UBSCOMP>
+        <MSGID>9172610484729518</MSGID>
+        <CORRELID>AL100115315001</CORRELID>
+        <USERID>ESBUSER</USERID>
+        <BRANCH>101</BRANCH>
+        <SERVICE>FCUBSRTService</SERVICE>
+        <OPERATION>CreateTransaction</OPERATION>
+        <DESTINATION>ESB</DESTINATION>
+        <MULTITRIPID>6172610846541185</MULTITRIPID>
+        <FUNCTIONID>DEGRTTLR</FUNCTIONID>
+        <ACTION>NEW</ACTION>
+        <MSGSTAT>SUCCESS</MSGSTAT>
+    </FCUBS_HEADER>
+    <FCUBS_BODY>
+        <Transaction-Details>
+            <XREF>AL100115315001</XREF>
+            <FCCREF>101MNPN17100A2ED</FCCREF>
+            <PRD>MNPN</PRD>
+            <BRN>101</BRN>
+            <TXNBRN>307</TXNBRN>
+            <TXNACC>30708000867</TXNACC>
+            <TXNCCY>TZS</TXNCCY>
+            <TXNAMT>4500</TXNAMT>
+            <TXNTRN>111</TXNTRN>
+            <OFFSETBRN>201</OFFSETBRN>
+            <OFFSETACC>20110013817</OFFSETACC>
+            <OFFSETCCY>TZS</OFFSETCCY>
+            <OFFSETAMT>4500</OFFSETAMT>
+            <OFFSETTRN>111</OFFSETTRN>
+            <XRATE>1</XRATE>
+            <LCYAMT>4500</LCYAMT>
+            <TXNDATE>2017-04-10</TXNDATE>
+            <VALDATE>2017-04-10</VALDATE>
+            <RELCUST>001093790</RELCUST>
+            <TCYCHGAMT>0</TCYCHGAMT>
+            <TCYCHGAMT1>0</TCYCHGAMT1>
+            <TCYCHGAMT2>2250</TCYCHGAMT2>
+            <TCYCHGAMT3>250</TCYCHGAMT3>
+            <TCYCHGAMT4>450</TCYCHGAMT4>
+            <TCYTOTCHGAMT>0</TCYTOTCHGAMT>
+            <NARRATIVE>0918 03:40:47  Aloyce_Mwitwa_Testing NetworkID=ZANTELB2C: SenderID=0713438203: ReceiverID=0713438203</NARRATIVE>
+            <TRACKREVERSE>N</TRACKREVERSE>
+            <MAKERID>ESBUSER</MAKERID>
+            <MAKERSTAMP>2017-04-10 16:03:21 PM</MAKERSTAMP>
+            <CHECKERID>ESBUSER</CHECKERID>
+            <CHECKERSTAMP>2017-04-10 16:03:21 PM</CHECKERSTAMP>
+            <RECSTAT>A</RECSTAT>
+            <AUTHSTAT>A</AUTHSTAT>
+            <LCYCHGAMT>0</LCYCHGAMT>
+            <LCYCHGAMT1>0</LCYCHGAMT1>
+            <LCYCHGAMT2>2250</LCYCHGAMT2>
+            <LCYCHGAMT3>250</LCYCHGAMT3>
+            <LCYCHGAMT4>450</LCYCHGAMT4>
+            <DRACC>TXN</DRACC>
+            <TXNDRCR>D</TXNDRCR>
+            <BOOKDATE>2017-04-10</BOOKDATE>
+            <FT>N</FT>
+            <LCYTOTCHGAMT>2950</LCYTOTCHGAMT>
+            <DENMCCY1>TZS</DENMCCY1>
+            <DENMAMT1>0</DENMAMT1>
+            <DENMAMT2>0</DENMAMT2>
+            <ACCTITLE1>MYEJI, MARIAM ELIAH</ACCTITLE1>
+            <ACTAMT>7450</ACTAMT>
+            <BENFNAME>avyhdpqkohayoaamzxii</BENFNAME>
+            <BENFADDR1>BOX 28 SHINYANGA</BENFADDR1>
+            <BENFADDR2>MWAWAZA</BENFADDR2>
+            <OTHERDETLS1>982076351</OTHERDETLS1>
+            <CUSTNAME>avyhdpqkohayoaamzxii</CUSTNAME>
+            <FMTTXNAMT>                     4,500.00 </FMTTXNAMT>
+            <FMTOFSAMT>                     4,500.00 </FMTOFSAMT>
+            <AMTINWORDS1>Shilling Four Thousand Five Hundred Only</AMTINWORDS1>
+            <USER_ID>ESBUSER</USER_ID>
+            <BENNME>avyhdpqkohayoaamzxii</BENNME>
+            <ADD1>BOX 28 SHINYANGA</ADD1>
+            <ADD2>MWAWAZA</ADD2>
+            <TDT>10-APR-2017</TDT>
+            <BRNAME>NMB Head Office</BRNAME>
+            <Mis-Details>
+                <BRANCH>101</BRANCH>
+                <CCY>TZS</CCY>
+                <RTFLAG>P</RTFLAG>
+                <TXNMIS1LBL1>CCT</TXNMIS1LBL1>
+            </Mis-Details>
+        </Transaction-Details>
+        <FCUBS_WARNING_RESP>
+            <WARNING>
+                <WCODE>GW-SAV-01</WCODE>
+                <WDESC>Transaction Saved Succesfully</WDESC>
+            </WARNING>
+        </FCUBS_WARNING_RESP>
+    </FCUBS_BODY>
+</FCUBS_RES_ENV>

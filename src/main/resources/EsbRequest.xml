@@ -1,0 +1,44 @@
+
+<FCUBS_REQ_ENV xmlns="http://xml.netbeans.org/schema/FCUBS_REQ">
+    <FCUBS_HEADER>
+        <SOURCE>ESB</SOURCE>
+        <UBSCOMP>FCUBS</UBSCOMP>
+        <MSGID>EC100115315176</MSGID>
+        <CORRELID>EC100115315176</CORRELID>
+        <USERID>ESBUSER</USERID>
+        <BRANCH>101</BRANCH>
+        <SERVICE>FCUBSRTService</SERVICE>
+        <OPERATION>CreateTransaction</OPERATION>
+        <SOURCE_OPERATION>CreateTransaction</SOURCE_OPERATION>
+        <SOURCE_USERID>Any</SOURCE_USERID>
+        <DESTINATION>FCUBS</DESTINATION>
+    </FCUBS_HEADER>
+    <FCUBS_BODY>
+        <Transaction-Details>
+            <XREF>EC100115315176</XREF>
+            <PRD>MNPN</PRD>
+            <BRN>101</BRN>
+            <MODULE>RT</MODULE>
+            <TXNBRN>307</TXNBRN>
+            <TXNACC>30708000867</TXNACC>
+            <TXNCCY>TZS</TXNCCY>
+            <TXNAMT>38000</TXNAMT>
+            <TXNTRN>111</TXNTRN>
+            <OFFSETBRN>201</OFFSETBRN>
+            <OFFSETACC>20110013817</OFFSETACC>
+            <OFFSETCCY>TZS</OFFSETCCY>
+            <OFFSETAMT>38000</OFFSETAMT>
+            <OFFSETTRN>111</OFFSETTRN>
+            <NARRATIVE>1708 05:50:47  AloyceMwitwa_Test NetworkID=ZANTELB2C: SenderID=0713438203: ReceiverID=0713438203</NARRATIVE>
+            <MAKERID>ESBUSER</MAKERID>
+            <CHECKERID>ESBUSER</CHECKERID>
+            <MODNO>1</MODNO>
+            <RECSTAT>0</RECSTAT>
+            <AUTHSTAT>A</AUTHSTAT>
+            <DRACC>TXN</DRACC>
+        </Transaction-Details>
+    </FCUBS_BODY>
+</FCUBS_REQ_ENV>
+
+
+ 
